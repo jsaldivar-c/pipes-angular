@@ -1,27 +1,41 @@
-# MyApp
+# PIPES | Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-## Development server
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_1_cn92cm.png "Pipe | Angular")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_2_rpomxw.png "Pipe | Angular")
 
-## Code scaffolding
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_3_tal3am.png "Pipe | Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Uso de Pipes.
 
-## Build
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 4.5**
+> -   TypeScript
+> -   ES6
+> -   HTML 5
+> -   CSS 3
 
-## Running unit tests
+### **Caracterisiticas**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> -   Proyecto Angular usando el CLI (Command Line Interface)
+> -   Pipes uppercase y lowercase.
+> -   Pipe Slice.
+> -   Pice Decimal.
+> -   Pipe Percent.
+> -   Pipe Currency.
+> -   Pipe Json.
+> -   Pipe Async.
+> -   Pipe Date.
+> -   Pipes personalizados.
+> -   Capitalizar palabras y nombres.
+> -   Creación de un pipe, que permite cargar recursos externos de forma segura.
 
-## Running end-to-end tests
+### Autor
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Realización de la practica: _**José Saldivar**_
