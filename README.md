@@ -2,11 +2,11 @@
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_1_cn92cm.png "Pipe | Angular")
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/GitHub/pipes-angular_1_cn92cm.png "Pipe | Angular")
 
-![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_2_rpomxw.png "Pipe | Angular")
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/GitHub/pipes-angular_2_rpomxw.png "Pipe | Angular")
 
-![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/pipes-angular_3_tal3am.png "Pipe | Angular")
+![Pipes | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602047410/GitHub/pipes-angular_3_tal3am.png "Pipe | Angular")
 
 Uso de Pipes.
 
